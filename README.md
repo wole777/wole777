@@ -37,7 +37,7 @@ I’m a systems thinker at heart — whether it’s cloud architecture, process 
 You can [view my code and project examples here on GitHub.](https://github.com/wole777/wole777/tree/main)
 
 ### How to Reach Me
-LinkedIn: https://www.linkedin.com/in/olawoleadebola/
+LinkedIn: https://www.linkedin.com/in/olawoleadebola/  
 Email: olawole@ewconcepts.com
 <!--
 **wole777/wole777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
